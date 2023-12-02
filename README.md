@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/fylo-landing-page-with-tailwindcss-Sm0EpPkybk)
 - Live Site URL: [Netlify](https://fm-challenge-fylo-dark-theme-landing.netlify.app/)
 
 ## My process
